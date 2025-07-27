@@ -1,3 +1,5 @@
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/76533786-347a-45f7-b875-3ac2a778afc9" />
+
 # AI Context Generator for Godot
 
 A lightweight Godot plugin that exports your entire project structure as JSON for AI/LLM analysis. Perfect for getting intelligent assistance with your game development!
